@@ -1,9 +1,7 @@
-
-
-project_id = "PROJECT_ID"
+project_id = "jenkins-296209"
 tfstate_gcs_backend = "PROJECT_ID-tfstate"
-region = "us-east4"
-zones = ["us-east4-a"]
+region = "europe-west2"
+zones = ["europe-west2-a"]
 ip_range_pods_name = "ip-range-pods"
 ip_range_services_name = "ip-range-scv"
 network_name = "jenkins-network"
