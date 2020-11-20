@@ -1,5 +1,5 @@
 project_id = "jenkins-296209"
-tfstate_gcs_backend = "jenkins-296209-tfstate"
+tfstate_gcs_backend = "PROJECT_ID-tfstate"
 region = "europe-west2"
 zones = ["europe-west2-a"]
 ip_range_pods_name = "ip-range-pods"
